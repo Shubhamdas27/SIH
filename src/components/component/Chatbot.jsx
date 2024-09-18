@@ -93,10 +93,7 @@ function RailwayChatbot() {
               <AvatarFallback>RA</AvatarFallback>
             </Avatar>
             <div>
-              <p className="text-sm font-medium leading-none">Rail Assistant</p>
-              <p className="text-sm text-muted-foreground">
-                railassistant@example.com
-              </p>
+              <p className="text-sm font-semibold leading-none"> GANTAVYA </p>
             </div>
           </div>
           <Button
