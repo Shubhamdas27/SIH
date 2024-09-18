@@ -15,10 +15,10 @@ const Navbar = () => {
         <Link href="https://railway-complaint-analyzer.vercel.app/" className="hover:underline" prefetch={false}>
           File Complaints
         </Link>
-        <Link href="#" className="hover:underline" prefetch={false}>
+        <Link href="https://enquiry.indianrail.gov.in/ntes/" className="hover:underline" prefetch={false}>
           Check Schedules
         </Link>
-        <Link href="#" className="hover:underline" prefetch={false}>
+        <Link href="https://www.irctc.co.in/nget/train-search" className="hover:underline" prefetch={false}>
           Book Tickets
         </Link>
         <Link href="/feedback" className="hover:underline" prefetch={false}>
