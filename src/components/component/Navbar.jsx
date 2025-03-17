@@ -15,10 +15,10 @@ const Navbar = () => {
         <Link href="/complaint" className="hover:underline" prefetch={false}>
           File Complaints
         </Link>
-        <Link href="#" className="hover:underline" prefetch={false}>
+        <Link href="https://www.indianrail.gov.in/enquiry/SCHEDULE/TrainSchedule.html" className="hover:underline" prefetch={false}>
           Check Schedules
         </Link>
-        <Link href="#" className="hover:underline" prefetch={false}>
+        <Link href="https://www.irctc.co.in/nget/train-search" className="hover:underline" prefetch={false}>
           Book Tickets
         </Link>
         <Link href="/feedback" className="hover:underline" prefetch={false}>
